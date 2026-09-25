@@ -1,0 +1,1 @@
+# Minimal NetRW setup plugin
